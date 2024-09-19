@@ -44,5 +44,24 @@ This project involves developing a personal portfolio website using React. Users
  - Users can fill out the contact form to get in touch via email. Simply enter your details and message, and it will be sent directly to me.
 
 ## File Structure
+- **Navbar Component (`src/components/Navbar.js`):** Contains a responsive navigation bar with links to different sections of the site, social media icons, and a "Let’s Connect" button that opens the default email client.
 - **Banner Component (`src/components/Banner.js`):** Manages the main banner section of the homepage, including a text rotation effect and a contact button that redirects users to the email client.
+- **Skills Component (`src/components/Skills.js`):** Displays a carousel of skills and technologies, showcasing proficiency in various programming languages and tools. The carousel is responsive and adapts to different screen sizes, including desktops, tablets, and mobile devices. The component highlights skills such as React, Java, PHP, MySQL, and more.
+- **Projects Component (`src/components/Projects.js`):** Displays a categorized list of projects, showcasing tasks managed with React, Bootstrap, and other technologies. Each category can be filtered and viewed through tabs, providing an organized view of the user's projects.
+- **Certificates Component (`src/components/Certificates.js`):** Displays a list of professional certifications with details and links to view each certificate, showcasing achievements and continuous learning milestones.
+- **Contact Component (`src/components/Contact.js`):** Manages the contact form, handles form submission to both the database and email service, and displays status messages to the user based on the success or failure of the submission.
+- **Database Configuration (`src/components/db.js`):** Establishes a connection to the MySQL database, handling connection errors and exporting the database connection for use in other components.
+- **Footer Component (`src/components/Footer.js`):** Displays social media icons with links to LinkedIn, GitHub, and Instagram profiles, and includes a copyright notice.
+
+## Website Images
+
+  ![Ekran Görüntüsü (177)](https://github.com/user-attachments/assets/18dd2947-a34d-4367-ba1e-41b1a73eb3a6)  <br> <br> <br>
+
+  ![Ekran Görüntüsü (178)](https://github.com/user-attachments/assets/a03b3b87-2dda-4f66-9d0a-6e769b50813c)  <br> <br> <br>
+
+  ![Ekran Görüntüsü (179)](https://github.com/user-attachments/assets/e870aa15-f1e3-432d-8887-a0437b941b5c) <br> <br> <br>
+
+
+
+
 
