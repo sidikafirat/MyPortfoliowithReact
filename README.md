@@ -53,6 +53,7 @@ This project involves developing a personal portfolio website using React. Users
 - **Contact Component (`src/components/Contact.js`):** Manages the contact form, handles form submission to both the database and email service, and displays status messages to the user based on the success or failure of the submission.
 - **Database Configuration (`src/components/db.js`):** Establishes a connection to the MySQL database, handling connection errors and exporting the database connection for use in other components.
 - **Footer Component (`src/components/Footer.js`):** Displays social media icons with links to LinkedIn, GitHub, and Instagram profiles, and includes a copyright notice.
+- **(`src/components/mail.js`):** This project is configured as a Node.js server and uses the nodemailer library to send emails by processing the data received from the contact form.
 
 ## Website Images
 
