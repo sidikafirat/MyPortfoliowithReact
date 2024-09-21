@@ -2,7 +2,7 @@
 This project involves developing a personal portfolio website using React. Users can view my projects, skills, and contact information.
 ## Features
 
-- **Responsive Design:** The website is fully responsive, ensuring a great user experience on desktops, tablets, and mobile devices.
+- **Responsive Design:** The website works well on computers, tablets, and phones.
 - **Interactive Project Showcase:** View a dynamic presentation of my projects with detailed descriptions and technologies used.
 - **Skills Display:** Explore a section dedicated to showcasing my technical skills and areas of expertise.
 - **Contact Options:** Get in touch through a contact form or by using the "Let's Contact" button for a more direct communication method.
@@ -11,6 +11,7 @@ This project involves developing a personal portfolio website using React. Users
 - **Certifications Access:** View a list of my certifications and qualifications by clicking the "View Certificates" button.
 - **User-Friendly Navigation:** Navigate through the site with an intuitive and easy-to-use menu structure.
 - **Latest Updates:** Stay updated with the latest additions and changes to the portfolio, showcasing ongoing work and new projects.
+
 ## Installation
 
 - Clone the repository:
